@@ -1,3 +1,43 @@
 <resources>
+
+    // Global Strings
     <string name="app_name">LionSchool</string>
+    <string name="app_title">Lion School</string>
+
+    // Home Screen
+    <string name="favorite_course">Find your favorite course</string>
+    <string name="home_text">Get to your destination faster, study at the best vocational school in Brazil. Be the best version of yourself.</string>
+    <string name="get_started">Get Started</string>
+
+    // Course Screen
+    <string name="find_course">Find your course</string>
+    <string name="courses">Courses</string>
+    <string name="course_time">3 semesters</string>
+    <string name="ds_abbreviation">DS</string>
+    <string name="ds_name">Desenvolvimento de Sistemas</string>
+    <string name="ds_description">Learn to develop web and mobile applications.</string>
+    <string name="rds_abbreviation">RDS</string>
+    <string name="rds_name">Redes de Computadores</string>
+    <string name="rds_description">Learn to design communication networks.</string>
+    <string name="ele_abbreviation">ELE</string>
+    <string name="ele_name">Eletroeletrônica</string>
+    <string name="ele_description">Learn to design communication networks.</string>
+
+    // List of Course Students Screen
+    <string name="find_student">Find a student</string>
+    <string name="all_students">Todos</string>
+    <string name="studying_students">Cursando</string>
+    <string name="graduate_students">Finalizado</string>
+    <string name="students_list">Students List</string>
+    <string name="student_name">Name</string>
+    <string name="student_id">00000000000</string>
+    <string name="conclusion_date">0000</string>
+
+    // Student Details Screen
+    <string name="name_example">Luciana Martins</string>
+    <string name="course_name">001 - Técnico em Desenvolvimento de Sistemas</string>
+    <string name="performance">Desempenho</string>
+    <string name="subject_name">SIOP</string>
+    <string name="course_status">Concluído</string>
+
 </resources>
